@@ -5,8 +5,8 @@ programa {
     inteiro valorAtual2 = 100
     escreva("Primeiro valor:" , valorAtual1, "\n" )
     escreva("VALOR ATUAL " , valorAtual2, "\n")
-    // NOVA CONSTANTE
-    const real LIMITE_MAXIMO = 120
+
+   
     escreva("LIMITE MAX " , LIMITE_MAXIMO)
   }
 }
