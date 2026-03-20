@@ -1,8 +1,8 @@
 programa {
   funcao inicio() {
-  cadeia numero
+  inteiro numero = 10
 
     
-   escreva("Número", numero) 
+   escreva("Número", inteiro) 
   }
 }
